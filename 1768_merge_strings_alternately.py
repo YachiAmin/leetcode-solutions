@@ -1,3 +1,11 @@
+
+                                    #ARRAYS
+
+# Time Complexity: O(n + m)
+# Space Complexity: O(n + m)
+
+
+
 class Solution(object):
     def mergeAlternately(self, word1, word2):
         result = []
